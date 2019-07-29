@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AddressBookManagementSystem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="addressBookManagementSystem">
+				<Option output="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/addressBookManagementSystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 addressBookManagementSystem"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="addressBookManagementSystem/fast">
+				<Option output="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/addressBookManagementSystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 addressBookManagementSystem/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/ABMS.cpp">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/ABMS.h">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/AddLinkman.cpp">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/ClearLinkMan.cpp">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/DeleteLinkMan.cpp">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/FindLinkMan.cpp">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/Init.cpp">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/IsExistLinkMan.cpp">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/ModifyLinkMan.cpp">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/ShowLinkMan.cpp">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/ShowMenu.cpp">
+			<Option target="addressBookManagementSystem"/>
+		</Unit>
+		<Unit filename="/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/ABMS.h
+iostream
+-
+string
+-
+
+/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/ShowLinkMan.cpp
+ABMS.h
+/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/ABMS.h
+

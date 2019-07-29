@@ -1,0 +1,3 @@
+/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/brownten_boy/Documents/exercise/CLionProjects/AddressBookManagementSystem/cmake-build-debug/CMakeFiles/addressBookManagementSystem.dir
