@@ -82,7 +82,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,6 +93,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,6 +136,7 @@
       <updated>1564394153682</updated>
       <workItem from="1564394155025" duration="9633000" />
       <workItem from="1564410842979" duration="1574000" />
+      <workItem from="1564412620083" duration="546000" />
     </task>
     <task id="LOCAL-00001" summary="C/C++通讯录管理系统源代码">
       <created>1564411460236</created>
@@ -148,16 +149,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11207000" />
+    <option name="totallyTimeSpent" value="11753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="139" y="42" width="1400" height="987" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2533137" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2569956" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="GitHub Pull Requests" sideWeight="0.4992636" weight="0.32912844" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32912844" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32912844" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50073636" side_tool="true" weight="0.32912844" />
@@ -171,6 +171,7 @@
       <window_info anchor="bottom" id="CMake" order="10" weight="0.32912844" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info active="true" anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.4992636" weight="0.32912844" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -201,6 +202,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
