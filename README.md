@@ -1,5 +1,5 @@
 # AddressBookManagementSystem
-AddressBookManagementBook(Designed by C/CPP)  
+AddressBookManagementSystem(Designed by C/CPP)  
 通讯录管理系统  
 环境:Mac;  
 IDE:CLion;  
